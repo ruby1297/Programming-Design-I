@@ -2,8 +2,8 @@
 ### course code: CS106A
 ### Lecturer: Ji-Cherng Lin
 
-作業在assignment檔案中都會有基哥給的說明
+Each assignment file contains instructions provided by Dr.Lin.
 
-這學期還在摸索程式，作業都寫得蠻醜的，有可以改進的地方歡迎寄mail和我討論
+I’m still exploring programming this semester, so the codes are quite messy. If there are any advices for improvement, feel free to email me for discussion.
 
 [ email:yuyu199127@gmail.com ]
